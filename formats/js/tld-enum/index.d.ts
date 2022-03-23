@@ -19,4 +19,5 @@ export interface tldEnum {
     type: Type;
 }
 
+declare const tldEnum: tldEnum;
 export default tldEnum;
